@@ -23,6 +23,10 @@ Sistema de agendamiento médico con gestión de pacientes, médicos y turnos, a 
 🩺 **[Agendamiento-FrontEnd](https://github.com/Termicotra/Agendamiento-FrontEnd)**  
 Front End para el Sistema de agendamiento médico, a través de React.  
 
+🪪 **[AppCRUDusuarios](https://github.com/Termicotra/AppCRUDusuarios-PHP)**  
+App con operaciones CRUD sobre usuarios, basada en PHP, apis y token JWT.
+Enlace de producción: <https://appcrudusuarios.ct.ws/>
+
 📂 Más proyectos en 👉 [github.com/Termicotra](https://github.com/Termicotra)
 
 ---
