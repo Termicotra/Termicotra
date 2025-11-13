@@ -20,7 +20,7 @@
 🩺 **[Sistema-Agendamiento-Medico-PP1](https://github.com/Termicotra/Sistema-Agendamiento-Medico-PP1)**  
 Sistema de agendamiento médico con gestión de pacientes, médicos y turnos, a través de Django y Django-Rest.  
 
-🩺 **[Agendamiento-FrontEnd]((https://github.com/Termicotra/Agendamiento-FrontEnd))**  
+🩺 **[Agendamiento-FrontEnd](https://github.com/Termicotra/Agendamiento-FrontEnd)**  
 Front End para el Sistema de agendamiento médico, a través de React.  
 
 📂 Más proyectos en 👉 [github.com/Termicotra](https://github.com/Termicotra)
