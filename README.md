@@ -9,15 +9,19 @@
 ---
 
 ### 🚀 Sobre mí
-- 💻 Tengo experiencias en el desarrollo backend con ciertos lenguajes, buscando siempre aplicar buenas prácticas y diseño estructurado.  
+- 💻 Tengo experiencias en el desarrollo backend con ciertos lenguajes y frameworks, buscando siempre aplicar buenas prácticas y diseño estructurado.
+- 🖌️ Cuento un poquito de experiencia el desarrollo de frontend, concretamente a través del Framework React.
 - 🧠 Me interesa el diseño, la escalabilidad y la calidad del código.  
-- 📘 Siempre buscando aprender más sobre el mundo de la Informática.
+- 📘 Siempre buscando aprender más sobre el mundo.
 
 ---
 
 ### 🔭 Proyectos Actuales
 🩺 **[Sistema-Agendamiento-Medico-PP1](https://github.com/Termicotra/Sistema-Agendamiento-Medico-PP1)**  
 Sistema de agendamiento médico con gestión de pacientes, médicos y turnos, a través de Django y Django-Rest.  
+
+🩺 **[Agendamiento-FrontEnd]((https://github.com/Termicotra/Agendamiento-FrontEnd))**  
+Front End para el Sistema de agendamiento médico, a través de React.  
 
 📂 Más proyectos en 👉 [github.com/Termicotra](https://github.com/Termicotra)
 
