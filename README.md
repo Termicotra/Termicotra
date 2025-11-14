@@ -28,7 +28,7 @@ App con operaciones CRUD sobre usuarios, basada en PHP, apis y token JWT. <br>
 Enlace de producción: <https://appcrudusuarios.ct.ws/> <br>
 Usuario de prueba: admin   Contraseña: 1234
 
-📂 Más proyectos en 👉 [github.com/Termicotra](https://github.com/Termicotra)
+📂 Más proyectos en 👉 [github.com/Termicotra/Repositories](https://github.com/Termicotra?tab=repositories)
 
 ---
 
